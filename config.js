@@ -3,6 +3,7 @@ api.aceVimMap('jk', '<Esc>', 'insert');
 api.Hints.setCharacters('weruioasdhjklxcnm'); // for right hand
 settings.hintAlign = "left";
 
+api.map('o', 't';)
 api.map('jk', '<Esc>');
 api.map('H', 'S');
 api.map('L', 'D');

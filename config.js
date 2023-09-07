@@ -5,7 +5,7 @@ api.Hints.setCharacters('weuioasdjklxcnm');
 settings.hintAlign = "left";
 
 
-api.map('`', '\'');
+api.map('`', '\');
 api.map('O', 't');
 // create a new key `t` for default key `on`
 api.map('t', 'on');

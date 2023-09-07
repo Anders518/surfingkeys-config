@@ -3,7 +3,12 @@ api.aceVimMap('jk', '<Esc>', 'insert');
 api.Hints.setCharacters('weruioasdhjklxcnm'); // for right hand
 settings.hintAlign = "left";
 
-api.map('o', 't');
+api.map('`', '\'');
+api.map('>_t', 't');
+// create a new key `t` for default key `on`
+api.map('t', 'on');
+// create a new key `o` for saved temp key `>_t`
+
 api.map('jk', '<Esc>');
 api.map('H', 'S');
 api.map('L', 'D');

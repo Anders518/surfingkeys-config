@@ -2,7 +2,7 @@ api.aceVimMap('jk', '<Esc>', 'insert');
 
 
 api.Hints.setCharacters('weuioasdjklxcnm'); 
-settings.hintAlign = "left";
+settings.hintAlign = "center";
 
 
 api.map('`', '\'');

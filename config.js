@@ -15,10 +15,10 @@ api.map('t', 'on');
 api.map('jk', '<Esc>');
 api.map('H', 'S');
 api.map('L', 'D');
-api.map('gt', 'R');
-api.map('gT', 'E');
-api.map('K', 'R');
-api.map('J', 'E');
+api.map('gt', 'E');
+api.map('gT', 'R');
+api.map('K', 'E');
+api.map('J', 'R');
 
 // name: Rosé Pine Dawn
 // author: thuanowa

@@ -1,7 +1,7 @@
 api.aceVimMap('jk', '<Esc>', 'insert');
 
 
-//api.Hints.setCharacters('weuioasdjklxcnm'); 
+api.Hints.setCharacters = 'weuioasdjklxcnm'; 
 settings.hintAlign = "center";
 
 
